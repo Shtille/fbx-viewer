@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Build directory
+[Bb]uild
+
+# Binary directory
+[Bb]in
+
+.DS_Store
